@@ -1,4 +1,5 @@
 # Hi there :wave: , I'm Glory Ann Conwi
+![123](https://github.com/itsmyrice/itsmyrice/assets/145037367/546a8822-b285-4064-98f7-c2786f19e065)
 
 **Welcome to my profile**
 ---
