@@ -1,8 +1,8 @@
-# Hi there, I'm Glory Ann Conwi
+# Hi there :wave: , I'm Glory Ann Conwi
 
 **Welcome to my profile**
 ---
 
-- I am based in Hamburg, Germany
-- I am currently a Web Dev student at neue fische
-- I speak english, geerman and tagalog
+- :house: I am based in Hamburg, Germany
+- :student: I am currently a Web Dev student at neue fische
+- I speak :us: english, :de: german and 🇵🇭 tagalog
